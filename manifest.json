@@ -1,0 +1,9 @@
+{
+    "menu": {
+        "index": {
+            "label": "GNU"
+        }
+    },
+
+    "content-security-policy": "default-src * 'unsafe-inline'"
+}
